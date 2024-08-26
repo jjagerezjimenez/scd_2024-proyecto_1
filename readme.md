@@ -10,7 +10,7 @@ Sistemas de Comunicaciones Digitales I - 2024
    3. Concepto de Codificación de Fuente. El código Unicode y la codificación UTF-8
    4. Codificación óptima para una DMS. Teorema de codificación de fuente
    5. Codificación Huffman como código óptimo para una DMS
-   6. El teorema central del límite y su aplicación a la estimación de probabilidades de ocurrencia de simbolos de una fuente discreta sin memoria en base a una muestra de su salida
+   6. La ley de los grandes números y su aplicación a la estimación de probabilidades de ocurrencia de simbolos de una fuente discreta sin memoria en base a una muestra de su salida
 2. Utilizando un lenguaje de programación (se recomienda Python)
    1. Realizar una rutina que, tomando como entrada un archivo de texto utf-8, cree una tabla de frecuencias de ocurrencia de caracteres en dicho archivo.
    2. Realizar una clase (o equivalente) que simule una fuente discreta sin memoria en base a una tabla de simbolos con sus probabilidades, permitiendo producir cadenas de símbolos
